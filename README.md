@@ -342,3 +342,4 @@ Checking these should allievate most errors you encounter in new Minecraft serve
 - https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition
 - https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
 - https://minecraft.fandom.com/wiki/Tutorials/Server_startup_script
+- https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-Minecraft-Java-Edition-Server
