@@ -1,7 +1,7 @@
 # Tutorial: Setup Minecraft Java Server in Ubuntu/Debian
 ## Introduction
 
-![Minecraft Server Image](/Software/assets/images/minecraft/minecraft-server.png)
+![Minecraft Server Image](/assets/images/minecraft/minecraft-server.png)
 
 Nothing is sweeter than setting up your very own Minecraft Server for you, your family and friends to play on. But there can be a lot of hassle getting it all setup. That hassle is exasperated by attempting to automating the process. In this tutorial of sorts I will demonstrate all the steps of what to do to set it up, complete with automating security patches/updates, server startup/shutdown, and server backups. 
 
@@ -174,9 +174,9 @@ Suffice to say, it is a major problem and could allow **complete take over** of 
 
 Lucky for you, Minecraft has released a mitigation for it. You can download those files directly from the link above, or I have them included in the files for this tutorial. 
 
-![Log4j v1.12 - v1.16 XML File](/Software/assets/files/minecraft/java/log4j2_112-116.xml)
+![Log4j v1.12 - v1.16 XML File](/assets/files/minecraft/java/log4j2_112-116.xml)
 
-![Log4j v1.7 - v1.11 XML File](/Software/assets/files/minecraft/java/log4j2_17-111.xml)
+![Log4j v1.7 - v1.11 XML File](/assets/files/minecraft/java/log4j2_17-111.xml)
 
 > Note: make sure you put this file in with your normal minecraft server files, otherwise it won't work.
 
