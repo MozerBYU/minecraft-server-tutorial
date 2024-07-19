@@ -146,7 +146,7 @@ First on your local computer, install Git. Next, you'll want to create a directo
 
 Now, you need to go to GitHub and create a repository for your Minecraft server to live in. Once that is complete we can then tell git to push our server files up to the cloud.
 
-> `git remote origin add https://<git server repository>`
+> `git remote add origin https://<git server repository>`
 > <br> `git remote -v`
 > <br> `git push origin main`
 
